@@ -6,3 +6,4 @@ _allow => are allow lists
 _ok => enough pure doamins  
 
 _clean => all pure domains
+
